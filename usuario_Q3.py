@@ -1,4 +1,4 @@
-from livro import Livro
+from livro_Q3 import Livro
 
 class Usuario:
     def __init__(self, ra: int, nome: str, lista_livros_emprestados: list):
