@@ -1,6 +1,6 @@
-from livro import Livro
-from usuario import Usuario
-from biblioteca import Biblioteca
+from livro_Q3 import Livro
+from usuario_Q3 import Usuario
+from biblioteca_Q3 import Biblioteca
 
 print("MENU DE OPÇÕES\n\n 1. Cadastrar livro\n 2. Cadastrar usuário\n 3. Realizar empréstimo\n 4. Realizar devolução \n 5. Listar livros disponíveis\n 6. Listar livros emprestados ao usuário\n 7. Finalizar")
 print()
